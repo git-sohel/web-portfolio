@@ -1,5 +1,6 @@
 body{
     font-family: 'Lato', sans-serif;
+  
 }
 h1{
 font-size: 60px;
@@ -8,11 +9,18 @@ font-size: 60px;
     color: orange;
 }
 .half-width{
-    width: 40%;
+    width: 48%;
     float: left;
     margin-left: 10px;
-    padding-left:10px;
+    padding-left:5px;
 }
 .half-width img{
     width: 100%;
+}
+.top-bannar{
+    background-image: url("images/top-banner.png");
+    /* border: 2px solid red; */
+}
+section{
+    height: 500px;
 }
