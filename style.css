@@ -40,7 +40,7 @@ color: dimgray;
 }
 section{
     height: 500px;
-    border: 2px solid dimgray ;
+    /* border: 2px solid dimgray ; */
     margin: 10px 0;
 }
 .link-button{
